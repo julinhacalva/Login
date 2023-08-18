@@ -44,7 +44,7 @@ class login extends StatelessWidget {
               decoration: const InputDecoration(
                 labelText: 'Senha',
                 labelStyle: TextStyle(
-                  color: Color.fromARGB(255, 16, 1, 1),
+                  color: Color.fromARGB(255, 6, 1, 1),
                   fontWeight: FontWeight.w400,
                   fontSize: 20,
                 ),
